@@ -4,3 +4,5 @@ This Java-based Mafia game is a console application that brings the classic part
 
 ### UML Diagram
 For a visual representation of the project's structure and relationships between classes, refer to the UML diagram.
+
+ `[Farzam Manafzadeh]`, `[AP 1401 Fall project]`
